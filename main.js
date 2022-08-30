@@ -1,1 +1,1 @@
-alert('sike');
+['Hi']
